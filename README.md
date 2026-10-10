@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I034
 ### Team Details
-#### **TECH TITIANS** <<TECH TITIANS>> <br/>
+#### **TECH TITIANS**  <br/>
 #### Team Members
 |       Role      |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |            DETAILS            |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|-------------------------------|
